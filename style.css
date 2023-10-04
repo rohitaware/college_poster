@@ -1,0 +1,99 @@
+.intro{
+    background-color: palevioletred;
+    height:110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 50%;
+    font-weight: bold;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 15px;
+    text-decoration: underline overline;
+    box-shadow: 10px 10px grey;
+}
+
+.two{
+
+    font-family: "dancing script", cursive;
+    color: palevioletred;
+    text-align: center;
+    font-size: 80px;
+}
+
+.background{
+    background: antiquewhite;
+    padding-top: 144px;
+    padding-bottom: 144px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    margin-top: 80px;
+    width: 70%;
+    box-shadow: 5px 5px grey;
+}
+.h1{
+    color: white;
+    font-size: 80px;
+    font-family: 'Young Serif', serif;
+    text-align: center;
+  margin-top: 10px;
+    
+    
+}
+.h2{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+.h3{
+    text-align: center;
+    padding-left: 300px;
+    text-align: center;
+    padding-left: 400px;
+    font-size: 30px;
+}
+.h4{
+    text-align: center;
+    padding-left: 400px;
+    font-size: 20px;
+}
+.h5{
+    text-align: center;
+    padding-left:400px;
+    font-size: 30px;
+}
+.h6{
+    text-align: center;
+    padding-left: 400px;
+    font-size: 20px;
+
+}
+.h8{
+    background-color:yellowgreen;
+    box-shadow: 10px 10px black;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 60px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    
+}
+.h7{
+    text-align: center;
+    padding-left: 400px;
+    font-size: 20px;
+}
+.img{
+    height: 100px;
+    width: 100px;
+    padding-right: 600px;
+    border-radius: 20px;
+}
